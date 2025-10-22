@@ -63,8 +63,8 @@ C9_NAME="cloud9-nezastore"
 C9_PORT="8000"
 
 # === AUTO USERNAME & PASSWORD ===
-USERNAME="kontol"
-PASSWORD="kontol"
+USERNAME="nezastore"
+PASSWORD="nezastore"
 
 C9_WORKDIR="/opt/nezastore/cloud9/workspace"
 C9_CONFIG="/opt/nezastore/cloud9/config"
