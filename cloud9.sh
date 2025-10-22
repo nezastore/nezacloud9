@@ -52,9 +52,9 @@ stop_spinner() {
 banner() {
   clear
   echo -e "${FG_CYAN}${BOLD}=================================================${RESET}"
-  echo -e "${FG_GREEN}${BOLD}🚀 Cloud9 Installation Script — NEZASTORE Edition${RESET}"
+  echo -e "${FG_GREEN}${BOLD}🚀 Cloud9 Installation Script — STORE Edition${RESET}"
   echo -e "${FG_CYAN}${BOLD}=================================================${RESET}"
-  echo -e " ${NEZA_WATERMARK}\n"
+  echo -e " ${_WATERMARK}\n"
 }
 
 # =========================[ CONFIG ]==================================
@@ -63,8 +63,8 @@ C9_NAME="cloud9-nezastore"
 C9_PORT="8000"
 
 # === AUTO USERNAME & PASSWORD ===
-USERNAME="nezastore"
-PASSWORD="nezastore"
+USERNAME="kontol"
+PASSWORD="kontol"
 
 C9_WORKDIR="/opt/nezastore/cloud9/workspace"
 C9_CONFIG="/opt/nezastore/cloud9/config"
